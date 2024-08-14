@@ -2,7 +2,7 @@
 
 👋 Hi, I am a medical 🩺 student attending Seoul National University of Medicine. My main background is in *medicine* and *physics*.
 
-🧬 I'm mainly interested in **Bioinformatics**, and **Computational Neuroscience**. I'm currently learning Bioinformatics at [ChangLabSNU](https://github.com/ChangLabSNU) and studying Computaional Neuroscience with SNUCN, which has members such as [Younghoon Kim](https://github.com/aktivhoon) I'm also working with [`@lemonardo`](https://github.com/Future-medicine-Kor) for digitizing medicine. 
+🧬 I'm mainly interested in **Bioinformatics**, and **Computational Neuroscience**. I'm currently learning Bioinformatics at [ChangLabSNU](https://github.com/ChangLabSNU) and studying Computaional Neuroscience with SNUCN, which has members such as [Younghoon Kim](https://github.com/aktivhoon). I'm also working with [`@lemonardo`](https://github.com/Future-medicine-Kor) for digitizing medicine. 
 
 In the long term, I'm interested in any application of medicine that takes a *quantitative* and *dynamic* approach to components of the human body. Separate molecules and components of the body that were previously intractable due to their computational intractably have now become approachable to modern researchs through the power of compute. 
 Long term, I believe that taking this more mathematical approach to the body can help solve the following questions:
