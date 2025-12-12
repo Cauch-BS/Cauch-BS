@@ -11,8 +11,8 @@ Long term, I believe that taking this more mathematical approach to the body can
 - combining both *physical* and *chemical* modalities for targeted ablation
 - artificial neuron prosthesis to reverse neurodegenerative diseases
 
-📫 You can reach me at my [home page](www.qbio.page) and [stackexchange](https://stackexchange.com/users/7780092/s-c-b). 
-I also have a [LinkedIn](https://www.linkedin.com/in/medqbio-chaebeom-sheen/). 
+📫 You can reach me at my [home page](www.cbases.com) and [stackexchange](https://stackexchange.com/users/7780092/s-c-b). 
+I also have a [LinkedIn](https://www.linkedin.com/in/qmedim/). 
 <!---
 Cauch-BS/Cauch-BS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
