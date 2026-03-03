@@ -63,7 +63,7 @@ A skeleton of a XGBoost-based algorithm for early child abuse detection
 
 ## 📫 Connect
 
-- 📄 Portfolio & CV: **  https://github.com/Cauch-BS/Curriculum-Vitae
+- 📄 Portfolio & CV:  https://github.com/Cauch-BS/Curriculum-Vitae
 - 📬 Email: *cauchybsheen@gmail.com*
 - 🔗 LinkedIn: https://linkedin.com/in/qmedim
 <!---
