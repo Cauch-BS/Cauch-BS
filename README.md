@@ -1,18 +1,71 @@
-# Hi, I'm Chaebeom Sheen 
+# `whoami`
 
-👋 Hi, I am a medical 🩺 student attending Seoul National University of Medicine. My main background is in *medicine* and *physics*.
+**Medical Student | Computational Biologist | Quantitative Researcher**
 
-🧬 I'm mainly interested in **Bioinformatics**, and **Computational Neuroscience**. I'm currently learning Bioinformatics at [ChangLabSNU](https://github.com/ChangLabSNU) and studying Computaional Neuroscience with SNUCN, which has members such as [Younghoon Kim](https://github.com/aktivhoon). I'm also working with [`@lemonardo1`](https://github.com/lemonardo1) for digitizing medicine. 
+I’m currently an M.D. candidate at **Seoul National University of Medicine** with a strong foundation in **physics, computational biology, and software engineering**. I build algorithms and tools where **medicine, bioinformatics, and dynamical systems intersect**.
 
-I'm interested in any application of medicine or biochemistry that takes a *quantitative* and *dynamic* approach to components of the human body.
-Long term, I believe that taking this more mathematical approach to the body can help solve the following questions:
+---
 
-- intelligent drugs and diagnostic devices by DNA computing or Generative Neural Networks
-- combining both *physical* and *chemical* modalities for targeted ablation
-- artificial neuron prosthesis to reverse neurodegenerative diseases
+## 💡 What I’m Focused On
 
-📫 You can reach me at my [home page](www.cbases.com) and [stackexchange](https://stackexchange.com/users/7780092/s-c-b). 
-I also have a [LinkedIn](https://www.linkedin.com/in/qmedim/). 
+### Research Domains
+- **Bioinformatics & Personalized Medicine**
+- **Computational neuroscience**
+- **Physics-integrated Deep Learning**
+
+### Engineering Domains
+- **Distributed computation for massively parallel scientific pipelines**
+- **Heterogeneous compute for true parallelism**
+- **Web Development & Data Visualization**
+- **Efficient LLM workflow integration**
+
+---
+
+## 🛠️ What I’m Working On
+
+### 📌 Key Projects
+🔹 **Codon Optimization for mRNA Vaccine Design** – *[VaxPress](https://github.com/ChangLabSNU/VaxPress)*  
+A Python-based optimizer tailored for mRNA therapeutics.:
+
+🔹 **Publication alert system** – *[Paper Sorter](https://github.com/ChangLabSNU/VaxPress)*  
+Automated RSS-based curation for research discovery.:contentReference[oaicite:2]{index=2}
+
+🔹 **KidPro** - *[Kidpro](https://github.com/Cauch-BS/kidpro)*  
+A ViT-based model for IgAN prognostication based on WSI (whole slide images)
+
+🔹 **NABI Website** - *[homepage](https://github.com/NABI-SNU/homepage)*  
+A web-based substrate for team collaboration and publication. 
+
+🔹 **AI SAFE / Notebook Projects**  
+A skeleton of a XGBoost-based algorithm for early child abuse detection
+
+---
+
+## 📊 Skills, Knowledge & Technologies
+
+- **Languages:** Python, C/CUDA, Typescript, R
+- **Bioinformatics:** RNA structure algorithms, partition functions, molecular dynamics 
+- **ML & Modeling:** Experience in Pytorch & JAX's JIT and pallas for TPU acceleration
+- **Cloud & DevOps:** Kubernetes, Docker, Hydra, `mlflow`, CI/CD  
+- **Distributed Systems:** Parallel computing for bio pipelines
+
+---
+
+## 🎓 Education & Affiliations
+
+- M.D. Candidate — **Seoul National University of Medicine**  
+- Bioinformatics at **ChangLabSNU**  
+- Computational neuroscience with **SNUCN**  
+- ORCID: https://orcid.org/0009-0003-0846-5072  
+- LinkedIn: https://linkedin.com/in/qmedim 
+
+---
+
+## 📫 Connect
+
+- 📄 Portfolio & CV: **  https://github.com/Cauch-BS/Curriculum-Vitae
+- 📬 Email: *cauchybsheen@gmail.com*
+- 🔗 LinkedIn: https://linkedin.com/in/qmedim
 <!---
 Cauch-BS/Cauch-BS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
