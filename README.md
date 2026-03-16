@@ -28,7 +28,7 @@ I’m currently an M.D. candidate at **Seoul National University of Medicine** w
 A Python-based optimizer tailored for mRNA therapeutics.:
 
 🔹 **Publication alert system** – *[Paper Sorter](https://github.com/ChangLabSNU/VaxPress)*  
-Automated RSS-based curation for research discovery.:contentReference[oaicite:2]{index=2}
+Automated RSS-based curation for research discovery.:contentReference
 
 🔹 **KidPro** - *[Kidpro](https://github.com/Cauch-BS/kidpro)*  
 A ViT-based model for IgAN prognostication based on WSI (whole slide images)
